@@ -1,5 +1,5 @@
 
-designed and developed bu GUNALAN
+designed and developed by Naresh  , Nureal Bazier , Prakash , priya , Thrisha.
 
 # Fake News Detection on Reddit Posts
 
